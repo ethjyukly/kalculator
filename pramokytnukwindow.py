@@ -9,9 +9,9 @@ S=a*sqrt(Do^2-a^2)
 """
 def pramokytnuktwindow():
     window=QDialog()
-
+    window.setWindowTitle("прямокуттник")
     liniabuton = QVBoxLayout()
-    Btn1 = QPushButton("за  не гра ми")
+    Btn1 = QPushButton("за  не грами")
     Btn2 = QPushButton("за периметром і стороною")
     Btn3 = QPushButton("за діагналю і будьякій стороні   ")
     Btn4 = QPushButton("за діагоналю і синусом гстрого кута між ними   ")

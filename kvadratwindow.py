@@ -13,6 +13,7 @@ S=Dv^2
 def kvadratwindow():
     window=QDialog()
     liniabuton = QVBoxLayout()
+    window.setWindowTitle("квадрат")
     Btn1 = QPushButton("за двома сторонами ")
     Btn2 = QPushButton("за периметром ")
     Btn3 = QPushButton("за діагналю  ")

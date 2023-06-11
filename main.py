@@ -7,6 +7,7 @@ import pramokytnukwindow
 import paralelogramtwindow
 App=QApplication([])
 window=QWidget()
+window.setWindowTitle("площа")
 Btn1=QPushButton("рівнобедрений трикутник")
 Btn2=QPushButton("паралелограм")
 Btn3=QPushButton("ромб ")
