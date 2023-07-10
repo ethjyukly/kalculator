@@ -1,5 +1,6 @@
 from PyQt5.QtWidgets import *
-
+import zakatetomigipotenyzou
+import za2katetamu
 def trukytnuk90window():
     window = QDialog()
     window.setWindowTitle("Прямокутний трикутник")
@@ -18,6 +19,14 @@ def trukytnuk90window():
     layout.addWidget(btn4)
     layout.addWidget(btn5)
 
+    def zakatetomigipotenuzou():
+        zakatetomigipotenyzou.zakatetomgipjtenuzou()
+    def za2katetamu():
+        za2katetamu.za2katetamu()
+
+
+    btn2.clicked.connect(zakatetomigipotenuzou)
+    btn3.clicked.connect(za2katetamu)
     window.setLayout(layout)
     window.show()
     window.exec()

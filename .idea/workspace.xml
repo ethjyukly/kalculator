@@ -1,20 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c66fabd7-3b6f-4aa7-b1a2-343041bbc194" name="Changes" comment="не">
+      <change afterPath="$PROJECT_DIR$/rbtrukytnukwindow1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rbtrukytnukwindow2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rbtrukytnukwindow3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rbtrukytnukwindow4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rbtrukytnukwindow5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/za2katetamu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/za2storonamu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zaPorstorona.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zakatetomigipotenyzou.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kvadratwindow.py" beforeDir="false" afterPath="$PROJECT_DIR$/kvadratwindow.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/paralelogramtwindow.py" beforeDir="false" afterPath="$PROJECT_DIR$/paralelogramtwindow.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pramokytnukwindow.py" beforeDir="false" afterPath="$PROJECT_DIR$/pramokytnukwindow.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rbtrukytnukwindow.py" beforeDir="false" afterPath="$PROJECT_DIR$/rbtrukytnukwindow.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rombwindow.py" beforeDir="false" afterPath="$PROJECT_DIR$/rombwindow.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/trukytnuk90window.py" beforeDir="false" afterPath="$PROJECT_DIR$/trukytnuk90window.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -42,9 +58,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\Natalka\AppData\Local\Programs\Python\Python37-32\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />

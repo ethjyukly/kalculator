@@ -1,5 +1,9 @@
 from PyQt5.QtWidgets import *
-
+import rbtrukytnukwindow1
+import rbtrukytnukwindow2
+import rbtrukytnukwindow3
+import rbtrukytnukwindow4
+import rbtrukytnukwindow5
 def rbtrukytnukwindow():
     window = QDialog()
     window.setWindowTitle("рівнобедрений трикутник")
