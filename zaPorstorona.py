@@ -15,7 +15,7 @@ def zaPorstorona():
     def plosha():
         storona=int(inputstorona.text())
         P=int(inputP.text())
-        plosha1=(P - 2storona * storona **2) / 2
+        plosha1=(P - 2*storona * storona **2) / 2
         outplosha.setText(str(plosha1))
     Btn1.clicked.connect(plosha)
     window.setLayout(linia)

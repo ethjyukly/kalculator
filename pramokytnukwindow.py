@@ -25,13 +25,13 @@ def pramokytnuktwindow():
     liniabuton.addWidget(Btn4)
     liniabuton.addWidget(Btn5)
     liniabuton.addWidget(Btn6)
-    def za2storonamu():
+    def za2storonamufunc():
         za2storonamu.za2storonamu()
-    def zaPorstorona():
+    def zaPorstoronafunc():
         zaPorstorona.zaPorstorona()
 
-    Btn1.clicked.connect(za2storonamu)
-    Btn2.clicked.connect(zaPorstorona)
+    Btn1.clicked.connect(za2storonamufunc)
+    Btn2.clicked.connect(zaPorstoronafunc)
     window.setLayout(liniabuton)
     window.show()
     window.exec()

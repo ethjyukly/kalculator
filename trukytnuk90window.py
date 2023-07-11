@@ -19,14 +19,14 @@ def trukytnuk90window():
     layout.addWidget(btn4)
     layout.addWidget(btn5)
 
-    def zakatetomigipotenuzou():
+    def zakatetomigipotenuzoufunc():
         zakatetomigipotenyzou.zakatetomgipjtenuzou()
-    def za2katetamu():
+    def za2katetamufunc():
         za2katetamu.za2katetamu()
 
 
-    btn2.clicked.connect(zakatetomigipotenuzou)
-    btn3.clicked.connect(za2katetamu)
+    btn2.clicked.connect(zakatetomigipotenuzoufunc)
+    btn3.clicked.connect(za2katetamufunc)
     window.setLayout(layout)
     window.show()
     window.exec()

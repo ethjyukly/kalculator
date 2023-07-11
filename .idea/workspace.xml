@@ -5,20 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c66fabd7-3b6f-4aa7-b1a2-343041bbc194" name="Changes" comment="не">
-      <change afterPath="$PROJECT_DIR$/rbtrukytnukwindow1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rbtrukytnukwindow2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rbtrukytnukwindow3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rbtrukytnukwindow4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rbtrukytnukwindow5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/za2katetamu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/za2storonamu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zaPorstorona.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zakatetomigipotenyzou.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pramokytnukwindow.py" beforeDir="false" afterPath="$PROJECT_DIR$/pramokytnukwindow.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rbtrukytnukwindow.py" beforeDir="false" afterPath="$PROJECT_DIR$/rbtrukytnukwindow.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/trukytnuk90window.py" beforeDir="false" afterPath="$PROJECT_DIR$/trukytnuk90window.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zaPorstorona.py" beforeDir="false" afterPath="$PROJECT_DIR$/zaPorstorona.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685884986917</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="не">
+      <created>1689009443061</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689009443061</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
